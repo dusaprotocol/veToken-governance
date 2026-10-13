@@ -1,0 +1,19 @@
+veToken & Governance
+Copyright (c) 2026 Dusa Labs
+
+This project includes code adapted from the following works:
+
+- Velodrome V2 Smart Contracts (VotingEscrow, Voter, and their libraries)
+  https://github.com/velodrome-finance/contracts
+  (c) 2023 Perpetual Cyclist Services LLC
+  Licensed under the Business Source License 1.1 (see the original repository
+  for the license parameters, Additional Use Grant and Change Date).
+  Authors credited in the source: velodrome.finance, @figs999, @pegahcarter
+
+- Solidly (ve.sol)
+  https://github.com/solidlyexchange/solidly
+
+- Curve DAO Contracts (VotingEscrow.vy)
+  https://github.com/curvefi/curve-dao-contracts
+  Copyright (c) 2020 Curve Finance
+  Licensed under the MIT License.
